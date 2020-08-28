@@ -4,3 +4,5 @@ Edited this file
 Edited this file again
 
 Changed file in remote
+
+Added awesome new feature2
